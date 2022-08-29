@@ -1,4 +1,4 @@
-# arrayExercise
+# ArrayExercise
 Crie um menu onde o usuário possa escolher 1 entre 4 opções de filme diferentes utilizando um array.
 
 
@@ -7,7 +7,7 @@ Crie um menu onde o usuário possa escolher 1 entre 4 opções de filme diferent
 package aula04.arrays;
 import java.util.Scanner;
 
-public class arraysExercise {
+public class ArraysExercise {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
